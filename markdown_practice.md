@@ -7,6 +7,8 @@
 
 _Underbar: Italic_ 
 
+**Two Asterisks Bold**
+
 __Two Underbars Bold__ 
 
 *__Everything__ can be combined*
