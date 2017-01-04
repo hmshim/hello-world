@@ -14,6 +14,16 @@ __Two Underbars Bold__
 *__Everything__ can be combined*
 
 
+### Emphasis - Variation
+
+*Asterisk: Italic* 
+_Underbar: Italic_ 
+**Two Asterisks Bold**
+__Two Underbars Bold__ 
+*__Everything__ can be combined*
+
+
+
 
 ## List
 
